@@ -133,7 +133,6 @@
 ---
 
 ## 9. Future Enhancements
-- Video upload feature with file storage (e.g., S3 / Cloudinary).
 - Comments and likes per video.
 - Playlist creation.
 - Admin dashboard for video management.
